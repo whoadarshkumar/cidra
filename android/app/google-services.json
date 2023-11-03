@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "10071706183",
+    "firebase_url": "https://iiitbh-54e3c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iiitbh-54e3c",
+    "storage_bucket": "iiitbh-54e3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10071706183:android:6de02c2da85e60c282bf62",
+        "android_client_info": {
+          "package_name": "com.example.collegeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxcDuVWyNL3wOMVs0GbrckDqnuVsWyjCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
